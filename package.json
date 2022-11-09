@@ -1,0 +1,19 @@
+{
+  "name": "test-npm-module",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fadinv/test-npm-module.git"
+  },
+  "author": "fadinvv95@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fadinv/test-npm-module/issues"
+  },
+  "homepage": "https://github.com/Fadinv/test-npm-module#readme"
+}
